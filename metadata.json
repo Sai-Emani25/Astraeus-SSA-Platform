@@ -1,0 +1,6 @@
+{
+  "name": "Astraeus SSA Platform",
+  "description": "Lead Aerospace Systems Architect dashboard for Space Situational Awareness, TGNN conjunction prediction, and VAE predictive maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
